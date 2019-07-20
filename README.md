@@ -2,7 +2,7 @@
 
 > Also known as "apuntes ETSIT de loociano.com"
 
-This repo contains a subset of the (condensed) notes I took in [college](http://etsit.upm.es) (2005-2009). These were hosted back then at [loociano.com](http://loociano.com) [(web archived)](https://web.archive.org/web/20140313015248/http://dat.etsit.upm.es/~luciano/blog/resumenes-y-apuntes-de-teleco-etsit-upm), were freely available and had great success for at least a decade.
+This repo contains a subset of the (condensed) notes I took in [college](http://etsit.upm.es) (2005-2009). These were hosted back then at [loociano.com](http://loociano.com) [(web archived)](https://web.archive.org/web/20140313015248/http://dat.etsit.upm.es/~luciano/blog/resumenes-y-apuntes-de-teleco-etsit-upm), were freely available and had relative success ⁠— about 17,000 pageviews between 2009 and 2014.
 
 * [ARQO Arquitectura de ordenadores](pdf/arquitectura-de-ordenadores.pdf)
 * [CEM1 Campos Electromagnéticos I](pdf/campos-electromagneticos-i.pdf)
