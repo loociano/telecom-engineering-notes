@@ -1,5 +1,7 @@
 # Telecom Engineering MSc - Notes (Spanish)
 
+> Also known as "apuntes ETSIT de loociano.com"
+
 This repo contains a subset of the (condensed) notes I took in college (2005-2009). These were hosted back then at [loociano.com](http://loociano.com), were freely available and had great success for at least a decade.
 
 * [ARQO Arquitectura de ordenadores](pdf/arquitectura-de-ordenadores.pdf)
