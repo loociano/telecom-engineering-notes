@@ -1,8 +1,12 @@
 # Telecom Engineering MSc - Notes (Spanish)
 
-> Also known as "apuntes ETSIT de loociano.com"
+> Also known as "resúmenes y apuntes de teleco de loociano.com"
 
-This repo contains a subset of the (condensed) notes I took in [college](http://etsit.upm.es) (2005-2009). These were hosted back then at [loociano.com](http://loociano.com) [(web archived)](https://web.archive.org/web/20140313015248/http://dat.etsit.upm.es/~luciano/blog/resumenes-y-apuntes-de-teleco-etsit-upm), were freely available and had relative success ⁠— about 17,000 pageviews between 2009 and 2014.
+This repo contains a selection of the notes I took in [college](https://etsit.upm.es) between 2005 and 2009. They were uploaded to [loociano.com](https://loociano.com) [(web archived)](https://web.archive.org/web/20140313015248/http://dat.etsit.upm.es/~luciano/blog/resumenes-y-apuntes-de-teleco-etsit-upm) and had relative success ⁠— about 17,000 pageviews between 2009 and 2014.
+
+### Why is the text so tiny?
+
+In finals, often students we were allowed to bring a single sheet of paper with mathematical formulae taught in courses. This encouraged problem solving and discouraged memorization. Some students, however, brute-forced this policy by squeezing as much information as they could —including me—, perhaps hoping that the answers would be right in front of them.
 
 * [ARQO Arquitectura de ordenadores](pdf/arquitectura-de-ordenadores.pdf)
 * [CEM1 Campos Electromagnéticos I](pdf/campos-electromagneticos-i.pdf)
